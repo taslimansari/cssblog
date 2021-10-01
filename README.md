@@ -1,2 +1,2 @@
-# cssblog
-a simple website with pure HTML and CSS
+# CSS Blog
+![codeScreenshot](cssblog.png)
