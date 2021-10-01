@@ -64,11 +64,13 @@ form input, form textarea{
     width: 75%;
     height: 35px;
     text-align: center;
+    border-radius: 5px;
 }
 
 form textarea{
     height: 80px;
     text-align: left;
+    border-radius: 5px;
 }
 
 #submit{
